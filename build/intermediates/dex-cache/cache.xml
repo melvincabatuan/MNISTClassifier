@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jar="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="23.0.0 rc1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/pre-dexed/debug/classes-16019688420b3334c245935bae320a6fd2ac5b07.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5ab5df7acb90893ef71b8b32a014dba330fe91cb.jar" />
     </item>
     <item
         jar="/home/cobalt/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
@@ -16,18 +16,39 @@
         <dex dex="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-8cc0e63cf9402c9ce3f4cccb6b99350936f413b8.jar" />
     </item>
     <item
-        jar="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="23.0.0 rc1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5ab5df7acb90893ef71b8b32a014dba330fe91cb.jar" />
-    </item>
-    <item
         jar="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.0 rc1"
         sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
         <dex dex="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/pre-dexed/debug/classes-9dc410b75488eb4742b22b2265b4a1c86c809312.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/MNISTClassifier/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/cobalt/AndroidStudioProjects/MNISTClassifier/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-4853e28aa409abcc932d7dcf9a9e436724580b95.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/MNISTClassifier/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/cobalt/AndroidStudioProjects/MNISTClassifier/app/build/intermediates/pre-dexed/debug/classes-1b8e2e6a84735245843a3c872cc90c9a49b25111.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/MNISTClassifier/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/cobalt/AndroidStudioProjects/MNISTClassifier/app/build/intermediates/pre-dexed/debug/classes-23e6abc79b4d9d2ddf20b80bed18335068e7c3f9.jar" />
+    </item>
+    <item
+        jar="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/cobalt/AndroidStudioProjects/BreastDetection/app/build/intermediates/pre-dexed/debug/classes-16019688420b3334c245935bae320a6fd2ac5b07.jar" />
     </item>
 
 </items>
